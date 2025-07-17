@@ -14,7 +14,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Dependencies
 
-Node.js v22.15.0
+Node.js v20.19.4
 VITE v7.0.5
 tailwindcss v4.1
 ◇  Select a framework:
@@ -22,6 +22,14 @@ tailwindcss v4.1
 │
 ◇  Select a variant:
 │  JavaScript
+
+npm install motion
+npm i tailwind-merge
+npm i three @react-three /fiber @react-three/drei react-responsive math
+
+## Resources
+https://ui.aceternity.com/
+https://sketchfab.com/
 
 ## Bug Logs and Solution
 Used "npm i --save-dev @rollup/rollup-win32-x64-msvc" when "npm run dev" crashed
