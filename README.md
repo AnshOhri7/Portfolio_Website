@@ -26,6 +26,7 @@ tailwindcss v4.1
 npm install motion
 npm i tailwind-merge
 npm i three @react-three /fiber @react-three/drei react-responsive math
+npm install cobe
 
 ## Resources
 https://ui.aceternity.com/
@@ -33,3 +34,4 @@ https://sketchfab.com/
 
 ## Bug Logs and Solution
 Used "npm i --save-dev @rollup/rollup-win32-x64-msvc" when "npm run dev" crashed
+Tailwind@vite error fixed by adding "license": "MIT", to tailwind packages in package-lock.json
